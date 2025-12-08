@@ -4,8 +4,6 @@ title: Nos équipements
 
 Logic 10 / 256 pistes numériques
 
-Console MCI 400 / Burr-Brown
-
 Cartes Audio 24/96 khz
 
 Black Lion Audio
