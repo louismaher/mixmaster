@@ -27,7 +27,7 @@
 		font-size: clamp(3.6em, 8vw, 7em);
 		line-height: 1;
 		font-weight: var(--font-weight-xs);
-		color: var(--color-accent);
+		color: #ffffff;
 		z-index: var(--z-2);
 	}
 

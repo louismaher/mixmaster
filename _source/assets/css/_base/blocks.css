@@ -37,6 +37,8 @@ html {
 	accent-color: var(--color-accent);
 	overflow-x: clip;
 	font-weight: var(--font-weight);
+	background-color: #808080;
+	color: #ffffff;
 
 	@media (--motion) {
 		scroll-behavior: smooth;
