@@ -2,4 +2,5 @@
 title: Pour commencer
 ---
 
-Envoyez- nous vos pistes (transfer now)(we transfer) paiement par carte de crédit paypal intérac
+Envoyez- nous vos pistes soit par transfer now ou we transfer.
+Les paiements seront effectués par carte de crédit, paypal ou par intérac.
