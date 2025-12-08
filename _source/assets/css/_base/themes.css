@@ -70,7 +70,7 @@
 
 .primary {
 	--neutral: oklch(30% 0.2 300deg);
-	--primary: oklch(20% 0.2 300deg);
+	--primary: oklch(97.087% 0.0074 311.742);
 	--secondary: oklch(70% 0.2 300deg);
 	--color-text: light-dark(
 		oklch(from var(--primary) var(--700)),
