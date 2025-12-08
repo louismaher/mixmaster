@@ -20,7 +20,12 @@
 		scale: 1;
 		animation-timing-function: cubic-bezier(0.23, 1.22, 0.64, 1);
 	}
+	
+	html {
+	background-color:rgba(169, 191, 202, 0.32);
+	}
 
+	
 	.hero {
 		position: relative;
 		margin-block: var(--space-xxl);
