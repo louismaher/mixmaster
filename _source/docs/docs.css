@@ -25,28 +25,32 @@
 	background-color:rgba(169, 191, 202, 0.32);
 	}
     body {	
-		background-image: url('https://res.cloudinary.com/wikilouis/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1767632976/studio-mixmastering_f9bvz6.jpg');
-	height: 300px; /* You must set a specified height */
+		background-image: url('https://res.cloudinary.com/wikilouis/image/upload/v1767647652/studio-mixmastering_f9bvz6.jpg');
+	height: 800px; /* You must set a specified height */
   background-position: top; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-size: contain; /* Resize the background image to cover the entire container */
     }
 	
 	h1 { color:#ffffff;
 	}
 
 	details {
-		background-color: black;
+		background-color: #434a4d;
 		padding: 16px 16px;
 		border-radius: 25px;
 	}
 	.hero {
 		position: relative;
+		padding:24px;
 		margin-block: var(--space-xxl);
 		font-size: clamp(3.6em, 8vw, 7em);
 		line-height: 1;
-		font-weight: var(--font-weight-xl);
+		font-weight: var(--font-weight-xs);
 		z-index: var(--z-2);
+  background-position: top; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 	}
 
 	ul.photos-archives {

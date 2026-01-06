@@ -1,10 +1,16 @@
 ---
-title: Un ingénieur à votre écoute
+title: Un ingénieur d'expérience à votre écoute
 ---
 
 ![Guy Rhéaume](https://res.cloudinary.com/wikilouis/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1615663858/studio-guy-rheaume/guy-rheaume.jpg)
 
 Guy Rhéaume oeuvre depuis plus de 35 ans dans le domaine de la production de disques. Il est à l’origine de plusieurs enregistrements à succès. Il occupe la majeure partie de son temps à travailler pour [Les Disques Reso](https://disquesreso.com) à titre de directeur musical, conseiller à la production, responsable des arrangements sonores et ingénieur.
+
+<section class="grid">
+  <div class="span-1/3"><a href="https://res.cloudinary.com/wikilouis/image/upload/v1651760330/studio-guy-rheaume/modil/1.jpg" target="_blank"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/c_thumb,w_100,g_face/v1651760330/studio-guy-rheaume/modil/1.jpg" alt=""> </a></div>
+  <div class="start-auto bleed-end">Guy Rhéaume oeuvre depuis plus de 35 ans dans le domaine de la production de disques. Il est à l’origine de plusieurs enregistrements à succès. Il occupe la majeure partie de son temps à travailler pour [Les Disques Reso](https://disquesreso.com) à titre de directeur musical, conseiller à la production, responsable des arrangements sonores et ingénieur.</div>
+  
+</section>
 
 ### Ils nous ont fait confiance
 
