@@ -1,5 +1,5 @@
 ---
-title: Nous pouvons vous aider.
+title: Nous pouvons vous aider
 ---
 
 Grease is a website starter for the modern web. Its goal is simple; provide a solid foundation for a fast and adaptable website that's enjoyable to build, and easy to maintain.

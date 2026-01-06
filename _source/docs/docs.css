@@ -25,7 +25,7 @@
 	background-color:rgba(169, 191, 202, 0.32);
 	}
     body {	
-		background-image: url('https://res.cloudinary.com/wikilouis/image/upload/v1767647652/studio-mixmastering_f9bvz6.jpg');
+		background-image: url('https://res.cloudinary.com/wikilouis/image/upload/v1767716743/bg-logo_bwrvlo.png');
 	height: 800px; /* You must set a specified height */
   background-position: top; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -36,7 +36,7 @@
 	}
 
 	details {
-		background-color: #434a4d;
+		background-color: #000002;
 		padding: 16px 16px;
 		border-radius: 25px;
 	}
