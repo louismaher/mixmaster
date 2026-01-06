@@ -66,6 +66,10 @@ ul.photos-archives li
 .radius {
 	border-radius:8px;
 }
+#docs {
+	background-color:#434A4D;
+	padding:16px 16px;
+}
 	@media (--md) {
 		.docs-layout {
 			display: grid;
