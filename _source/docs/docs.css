@@ -22,7 +22,7 @@
 	}
 	
 	html {
-	background-color:rgba(169, 191, 202, 0.32);
+	background-color:#a9bfca52;
 	}
     body {	
 		background-image: url('https://res.cloudinary.com/wikilouis/image/upload/v1767724595/bg-hero_yao9eq.png');
@@ -33,6 +33,7 @@
     }
 	
 	h1 { color:#ffffff;
+
 	}
 
 	details {
@@ -43,14 +44,14 @@
 	.hero {
 		position: relative;
 		padding:24px;
-		margin-block: var(--space-xxl);
-		font-size: clamp(3.6em, 8vw, 7em);
+		margin-block: var(--space-xl);
+		font-size: clamp(3.6em, 4vw, 7em);
 		line-height: 1;
 		font-weight: var(--font-weight-xs);
 		z-index: var(--z-2);
   background-position: top; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-size: contain; /* Resize the background image to cover the entire container */
 	}
 
 	ul.photos-archives {
