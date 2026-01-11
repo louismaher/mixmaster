@@ -23,9 +23,7 @@
 	
     body {	
 	background-color:#002434;
-        background-position: top;
-        background-repeat: no-repeat;
-        background-size: contain;		
+        		
     }
 	
 	.hero {
@@ -33,18 +31,34 @@
     font-size: clamp(2.6em, 8vw, 2em);
     line-height: 1;
     font-weight: var(--font-weight-xxxl);
-    color: var(--color-secondary);
+    color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
 	background-image: url(https://res.cloudinary.com/wikilouis/image/upload/v1767724595/bg-hero_yao9eq.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-		background-attachment: fixed;
-		height: 800px;
+        width: 100vw;
+  height: 800px;
+  object-fit: contain;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position: center;
 }
+h1 {
+	
+        margin-block:var(--space-xs);
+		font-size: clamp(1.6em,8vw,7em);
+        line-height: 1;
+        font-weight: var(--font-weight-xs);
+        color: var(--color-text);
+        z-index: var(--z-2);
+        position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  text-shadow: 8px 0 #002434, -2px 0 #002434, 0 2px #002434, 0 -2px #002434,
+             1px 1px #002434, -1px -1px #002434, 1px -1px #002434, -1px 1px #002434;
+    }
 
-h1{font-weight:900 ;}
 
 	details {
 		padding: 16px 16px;
