@@ -33,19 +33,19 @@
     color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
-    background-image: url(https://res.cloudinary.com/wikilouis/image/upload/v1767724595/bg-hero_yao9eq.png);
+    background-image: url(https://res.cloudinary.com/wikilouis/image/upload/v1768323304/hero-bg-studio_kyuvf8.png);
     width: 100vw;
-    height: 800px;
+    height: 500px;
     object-fit: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: top;
   }
   h1 {
-    margin-block: var(--space-xs);
-    font-size: clamp(1.6em, 8vw, 7em);
+    margin-block: var(--space-xxxs);
+    font-size: clamp(1.6em, 6vw, 7em);
     line-height: 1;
-    font-weight: var(--font-weight-xs);
+    font-weight: var(--font-weight-xl);
     color: var(--color-text);
     z-index: var(--z-2);
     position: absolute;
@@ -57,6 +57,10 @@
       1px 1px #002434, -1px -1px #002434, 1px -1px #002434, -1px 1px #002434;
   }
 
+  span.nobr {
+    white-space: nowrap;
+  }
+
   hr {
     border-top: 1px dashed #ffffff;
     opacity: 0.5;
@@ -65,6 +69,7 @@
   details {
     padding: 16px 16px;
     border-radius: 25px;
+    background-color: #004e66;
   }
 
   ul.photos-archives {
