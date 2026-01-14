@@ -33,7 +33,7 @@
     color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
-    background-image: url(https://res.cloudinary.com/wikilouis/image/upload/v1768323304/hero-bg-studio_kyuvf8.png);
+    background-image: url(https://res.cloudinary.com/wikilouis/image/upload/q_auto,f_webp/v1768323304/hero-bg-studio_kyuvf8.png);
     width: 100vw;
     height: 500px;
     object-fit: contain;
