@@ -20,4 +20,3 @@ Guy Rhéaume oeuvre depuis plus de 35 ans dans le domaine de la production de di
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/c_thumb,w_200,g_face/v1651760330/studio-guy-rheaume/modil/11.jpg" alt="Johanne Blouin" loading="lazy">Johanne Blouin</div>
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/c_thumb,w_200,g_face/v1651760330/studio-guy-rheaume/modil/16.jpg" alt="Renée Martel" loading="lazy">Renée Martel</div>
   </div>
-Lazy
