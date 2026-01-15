@@ -2,8 +2,6 @@
 title: Nos équipements
 ---
 
-### DAW & Software Tools
-
   <!--<div class="grid grid --gap-sm --gap-y-md">
   <div class="span-1/3"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/w_500/e_sharpen,f_auto/v1767885984/neumann_f6qdum.jpg">Neuman v475 Summing</div>
   <div class="span-1/3"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/w_500/e_sharpen,f_auto/v1767885984/supre_rh1so4.jpg">SuPRE tube preamps</div>
