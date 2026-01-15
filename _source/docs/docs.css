@@ -26,8 +26,8 @@
   }
 
   .hero {
-    margin-block: var(--space-xxs);
-    font-size: clamp(2.6em, 8vw, 2em);
+    margin-block: var(--space-xxxs);
+    font-size: clamp(1.6em, 8vw, 2em);
     line-height: 1;
     font-weight: var(--font-weight-xxxl);
     color: var(--color-text);
