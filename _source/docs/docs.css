@@ -69,8 +69,8 @@
   }
 
   img {
-    max-width: 100%;
-    height: auto;
+    max-inline-size: 100%;
+    block-size: auto;
   }
   hr {
     border-top: 1px dashed #ffffff;
