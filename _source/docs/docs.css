@@ -43,7 +43,7 @@
     background-image: url(/assets/images/bg-hero.avif);
     width: 100vw;
     height: 500px;
-    object-fit: contain;
+    object-fit: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top;
