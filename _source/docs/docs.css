@@ -24,6 +24,9 @@
   body {
     background-color: #4d4d4d;
   }
+  #header {
+    background-color: #000000;
+  }
 
   .hero {
     margin-block: var(--space-xxxs);
@@ -73,7 +76,6 @@
   details {
     padding: 16px 16px;
     border-radius: 25px;
-    background-color: #2f0066;
   }
 
   ul.photos-archives {
