@@ -24,6 +24,10 @@
   body {
     background-color: #4d4d4d;
   }
+
+  .bleed {
+    background-color: #000000;
+  }
   #header {
     background-color: #000000;
   }
