@@ -40,7 +40,7 @@
     color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
-    background-image: url(/assets/images/hero-bg-studio_kyuvf8.webp);
+    /*background-image: url(/assets/images/hero-bg-studio_kyuvf8.webp);*/
     width: 100vw;
     height: 500px;
     object-fit: fill;
@@ -60,8 +60,15 @@
     top: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    text-shadow: 8px 0 #002434, -2px 0 #002434, 0 2px #002434, 0 -2px #002434,
-      1px 1px #002434, -1px -1px #002434, 1px -1px #002434, -1px 1px #002434;
+    text-shadow:
+      8px 0 #002434,
+      -2px 0 #002434,
+      0 2px #002434,
+      0 -2px #002434,
+      1px 1px #002434,
+      -1px -1px #002434,
+      1px -1px #002434,
+      -1px 1px #002434;
   }
 
   span.nobr {
