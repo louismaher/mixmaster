@@ -42,8 +42,8 @@
     position: relative;
     background-image: url(/assets/images/bg-hero.avif);
     width: 100vw;
-    height: 500px;
-    object-fit: fill;
+    height: 400px;
+    object-fit: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top;
