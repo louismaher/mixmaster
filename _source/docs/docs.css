@@ -44,7 +44,6 @@
 
   h1 {
     margin-block: var(--space-xxxl);
-    background-color: yellow;
     font-size: clamp(1em, 6vw, 7em);
     line-height: 1;
     font-weight: var(--font-weight-xs);
