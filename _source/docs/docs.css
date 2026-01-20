@@ -39,7 +39,7 @@
     font-weight: var(--font-weight-xxxl);
     color: var(--color-text);
     z-index: var(--z-2);
-    /*position: relative;*/
+    position: relative;
   }
 
   h1 {
