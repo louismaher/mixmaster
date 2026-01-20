@@ -40,7 +40,6 @@
     color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
-    background-color: yellow;
   }
 
   h1 {
