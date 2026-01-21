@@ -50,5 +50,4 @@ export default async function (eleventyConfig) {
   };
 }
 
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
