@@ -14,43 +14,27 @@ title: Nos équipements
 
 ### DAW & Software Tools
 
-Avid Pro Tools Ultimate
-Plugins from Fab Filter, Waves, Nugen, Halo, Cargo Cult and more…
-
-Dolby Renderer with DAD Core256 running on dedicated Mac
-Dolby Album Assembler
-
-Logic Pro for real-time Apple Spatial Audio preview
-Apple Music 7.1.4 playback
-
-SADiE Native with RME AES HDSPe
-Pyramix Masscore on request
+Logic X-SSL  
+Sony Oxford  
+Waves Maximizer  
+Dorrough
 
 ### A/D/A Conversion & Interfaces
 
-DAD AX64 A/D/A, Router, Interface, Monitor Controller with MOM Controller
-Benchmark DAC1 headphone amp
+ORION32+ gen3  
+Apogee ROSETTA 200 192khz
 
 ### Outboard
 
-Elysia Alpha Compressor
-Thermionic Culture The Kite Tube EQ
-Whitestone Audio P331 EVL
+Neve 9098 dual compressor-limiter  
+SPL psychoacoustic equalizer  
+Maselec MMA-4 Masterseries Modified stereo tube compressor  
+SUPREvacuum tube stereo preamp DI  
+Sony multi effect processor  
+NEUMANN D475 summing solid state analog mixer
 
 ### Monitoring
 
-ATC 7.1.4 Monitors
-LCR: 3 x SCM100ASL Pro
-Surrounds: 4 x SCM50ASL Pro
-Tops: 4 x SCM12i Pro
-Subs: 2 x SCM0.1/15SL Pro
-
-Sonos Era 300 with Dante Input for real-time consumer preview
-Nearfields on request
-
-Apple Airpods Max
-
-Stereo Mastering VU Meters
-TC Clarity M
-Dante DMeter
-Nugen VisLM2
+Crown MACRO reference amp  
+DYNAUDIO  
+Klein-Hummel monitors
