@@ -40,11 +40,11 @@
     color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
-    background-image: url("/assets/images/bg-mix-mastering.avif");
+    background-image: url("https://res.cloudinary.com/wikilouis/image/upload/v1769108622/hero-bg_kfu5rz.avif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 800px;
     display: flex;
     justify-content: flex-end;
   }
