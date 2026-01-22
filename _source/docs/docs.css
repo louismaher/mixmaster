@@ -40,6 +40,13 @@
     color: var(--color-text);
     z-index: var(--z-2);
     position: relative;
+    background-image: url("/assets/images/bg-mix-mastering.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
   }
 
   h1 {
