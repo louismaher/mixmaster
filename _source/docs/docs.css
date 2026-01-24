@@ -85,6 +85,12 @@
     block-size: auto;
     margin: auto;
   }
+
+  svg {
+    width: 100px;
+    height: 100px;
+  }
+
   hr {
     border-top: 1px dashed #ffffff;
     opacity: 0.5;
