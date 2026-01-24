@@ -32,6 +32,7 @@ permalink: /
 <main class="grid">
   <section id="docs" class="docs-layout">
     <nav class="sticky@md top-md mb-lg">
+            {% render "svg/logo-rheaume-mastering.svg" %}
       <small-details>
         <details>
           <summary class="font-size-sm font-weight-md uppercase letter-spacing-lg">RESO MIX & MASTERING</summary>
@@ -42,7 +43,6 @@ permalink: /
             </li>
           {%- endfor -%}
         </details>
-      </small-details>
     </nav>
     <article class="line-length-lg">
       {%- for post in collections.docs -%}
