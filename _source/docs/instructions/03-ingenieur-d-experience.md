@@ -21,4 +21,5 @@ Guy Rhéaume oeuvre depuis plus de 35 ans dans le domaine de la production de di
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1769100189/cruiser_vt3xjq.jpg" alt="Cruiser" loading="lazy">Cruiser</div>
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1651782508/studio-guy-rheaume/modil/14.jpg" alt="Tom Jones" loading="lazy">Tom Jones</div>
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1651780624/studio-guy-rheaume/modil/9.jpg" alt="Robert Charlebois" loading="lazy">Robert Charlebois</div>
+  <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1769262230/cruiser-strange-news_rkq6mn.jpg" alt="Cruiser" loading="lazy">Cruiser</div>
   </div>
