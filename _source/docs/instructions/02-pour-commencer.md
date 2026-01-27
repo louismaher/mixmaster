@@ -12,7 +12,9 @@ title: Pour commencer
   <hr>
 
 2. <strong>Envoyez-nous vos pistes soit par </strong><a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a><strong>  
-ou par</strong> <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
+   ou par</strong> <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
+
 <hr>
+
 3. <strong>Les paiements pourront être effectués par carte de crédit, Paypal  
    ou par Interac.</strong>
