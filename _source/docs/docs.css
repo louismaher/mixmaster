@@ -99,6 +99,11 @@
   details {
     padding: 16px 16px;
     border-radius: 25px;
+    border-bottom: 0;
+  }
+
+  small-details {
+    border-bottom: 100px solid red;
   }
 
   ul.photos-archives {
