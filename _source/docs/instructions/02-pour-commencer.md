@@ -2,8 +2,17 @@
 title: Pour commencer
 ---
 
-1. [Prenez contact](#contact) avec nous pour discuter du projet que vous voulez nous envoyer.
+1. <strong>Prenez contact avec nous pour discuter du projet  
+   que vous voulez nous envoyer.</strong>
 
-2. <strong>Envoyez-nous</strong> vos pistes soit par <a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a> ou par <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
+<a href="tel:450-449-6052">450 449-6052</a>
 
-3. <strong>Les paiements</strong> pourront être effectués par carte de crédit, Paypal ou par Interac.
+<a href="mailto:rheaumeguy99@gmail.com">rheaumeguy99@gmail.com</a>
+
+  <hr>
+
+2. <strong>Envoyez-nous vos pistes soit par </strong><a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a><strong>  
+ou par</strong> <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
+<hr>
+3. <strong>Les paiements pourront être effectués par carte de crédit, Paypal  
+   ou par Interac.</strong>
