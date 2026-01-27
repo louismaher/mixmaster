@@ -2,8 +2,8 @@
 title: Pour commencer
 ---
 
-[Prenez contact](/) avec nous pour discuter du projet que vous voulez nous envoyer.
+1. [Prenez contact](#contact) avec nous pour discuter du projet que vous voulez nous envoyer.
 
-Envoyez-nous vos pistes soit par [TransferNow](https://www.transfernow.net/fr) ou par [WeTransfer](https://wetransfer.com/).
+2. <strong>Envoyez-nous</strong> vos pistes soit par <a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a> ou par <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
 
-Les paiements seront effectués par carte de crédit, Paypal ou par Interac.
+3. <strong>Les paiements</strong> pourront être effectués par carte de crédit, Paypal ou par Interac.
