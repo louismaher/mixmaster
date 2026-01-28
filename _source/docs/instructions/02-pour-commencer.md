@@ -5,14 +5,16 @@ title: Pour commencer
 1. <strong>Prenez contact avec nous pour discuter du projet  
    que vous voulez nous envoyer.</strong>
 
-<a href="tel:450-449-6052">450 449-6052</a>
+- <a href="tel:450-449-6052">450 449-6052</a>
 
-<a href="mailto:rheaumeguy99@gmail.com">rheaumeguy99@gmail.com</a>
+- <a href="mailto:rheaumeguy99@gmail.com">rheaumeguy99@gmail.com</a>
 
   <hr>
 
-2. <strong>Envoyez-nous vos pistes soit par </strong><a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a><strong>  
-   ou par</strong> <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
+2. <strong>Envoyez-nous vos pistes</strong>
+
+- <a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a>
+- <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
 
 <hr>
 
