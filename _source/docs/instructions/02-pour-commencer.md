@@ -11,7 +11,7 @@ title: Pour commencer
 
   <hr>
 
-2. <strong>Envoyez-nous vos pistes</strong>
+2. <strong>Envoyez-nous vos piste</strong>
 
 - <a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a>
 - <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
