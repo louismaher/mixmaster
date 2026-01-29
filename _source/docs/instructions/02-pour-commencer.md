@@ -14,7 +14,7 @@ title: Pour commencer
 2. <strong>Envoyez-nous vos pistes</strong>
 
 - <a href="https://www.transfernow.net/fr" target="_blank">TransferNow ↗</a>
-- <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>.
+- <a href="https://www.wetransfer.com" target="_blank">WeTransfer ↗</a>
 
 <hr>
 
