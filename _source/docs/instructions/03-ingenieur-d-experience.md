@@ -6,7 +6,7 @@ title: Votre ingénieur d'expérience
 
 Guy Rhéaume oeuvre depuis plus de 35 ans dans le domaine de la production de disques. Il est à l’origine de plusieurs enregistrements à succès. Il occupe la majeure partie de son temps à travailler pour les <a href="https://www.disquesreso.com" target="_blank">Disques Reso ↗</a> à titre de directeur musical, conseiller à la production, responsable des arrangements sonores et ingénieur.
 
-### Ces artistes nous ont fait confiance
+### Ces artistes lui ont fait confiance
 
 <div class="grid grid --gap-sm --gap-y-md">
  
@@ -22,5 +22,11 @@ Guy Rhéaume oeuvre depuis plus de 35 ans dans le domaine de la production de di
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1651782508/studio-guy-rheaume/modil/14.jpg" alt="Tom Jones" loading="lazy">Tom Jones</div>
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1651780624/studio-guy-rheaume/modil/9.jpg" alt="Robert Charlebois" loading="lazy">Robert Charlebois</div>
   <div class="span-1/4"><img class="radius" src="https://res.cloudinary.com/wikilouis/image/upload/f_auto/w_500/v1769262230/cruiser-strange-news_rkq6mn.jpg" alt="Cruiser" loading="lazy">Cruiser</div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gaqxBvDybAc?si=YV3ijaUcJrS4RjZ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+<br>
+
+### Coup d'oeil sur Guy Rhéaume
+
+  <div class="grid grid --gap-sm --gap-y-md">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/gaqxBvDybAc?si=YV3ijaUcJrS4RjZ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
