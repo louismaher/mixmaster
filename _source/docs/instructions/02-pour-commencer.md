@@ -5,7 +5,7 @@ title: Pour commencer
 1. <strong>Prenez contact avec nous pour discuter du projet  
    que vous voulez nous envoyer.</strong>
 
-- <a href="tel:450-449-6052">450 449-6052</a><a href="tel:5794211357">579 421-1357</a>
+- <a href="tel:450-449-6052">450 449-6052</a>&nbsp;&nbsp;<a href="tel:5794211357">579 421-1357</a>
 
 - <a href="mailto:rheaumeguy99@gmail.com">rheaumeguy99@gmail.com</a>
 
