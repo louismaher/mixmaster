@@ -8,4 +8,11 @@ De nouveaux équipements ont été installés pour nous permettre de vous offrir
 
 Nous sommes vraiment heureux des résultats et sommes prêts à vous accueillir en ligne.
 
-Besoin d'un mix ou d'un master ? Vous êtes le bienvenue!
+Besoin d'un mix ou d'un master ? Vous êtes le bienvenue!\
+&nbsp;
+
+**TRANSFERT AUDIO (CONVERSION)**
+
+Numérisation cassette audio et dat audio, masterisation et préparation pour impression vinyle disponible.
+
+Tarif horaire: 50,00 $
