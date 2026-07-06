@@ -24,7 +24,7 @@ Dorrough
 ORION32+ gen3  
 Apogee ROSETTA 200 192khz
 
-### Outboard
+### Outboar
 
 Neve 9098 dual compressor-limiter  
 SPL psychoacoustic equalizer  
