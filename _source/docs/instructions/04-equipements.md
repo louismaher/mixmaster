@@ -29,7 +29,7 @@ Apogee ROSETTA 200 192khz
 Neve 9098 dual compressor-limiter  
 SPL psychoacoustic equalizer  
 Maselec MMA-4 Masterseries Modified stereo tube compressor  
-SUPREvacuum tube stereo preamp DI  
+SUPREvacuum Tube Stereo Preamp DI  
 Sony multi effect processor  
 NEUMANN D475 summing solid state analog mixer  
 AS78 Dual FET Peak Limiter  
