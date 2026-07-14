@@ -30,7 +30,7 @@ Neve 9098 dual compressor-limiter
 SPL psychoacoustic equalizer  
 Maselec MMA-4 Masterseries Modified stereo tube compressor  
 SUPREvacuum Tube Stereo Preamp DI  
-Sony multi effect processor  
+Sony Multi Effect Processor  
 NEUMANN D475 summing solid state analog mixer  
 AS78 Dual FET Peak Limiter  
 DAT Tascam DA-30  
