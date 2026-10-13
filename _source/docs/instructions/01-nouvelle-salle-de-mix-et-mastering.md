@@ -15,4 +15,4 @@ Besoin d'un mix ou d'un master ? Vous êtes le bienvenue!\
 
 Numérisation cassette audio et dat audio, masterisation et préparation pour impression vinyle disponible.
 
-Tarif horaire: 50,00 $
+Tarif horaire: 100,00 $
